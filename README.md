@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi👋 I'm Alireza Abarian👨‍💼
+###### Frontend Developer
+
+<br />
+
+## About My
+- 💻 Currently busy learning and training
+- 👨‍💻 Computer software student
+- 🌍 A resident of Razavi Khorasan province
+- ❤️ Interested in programming and design
 
 <!--
 **alireza-abarian786/alireza-abarian786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
