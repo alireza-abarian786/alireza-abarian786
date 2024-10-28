@@ -12,8 +12,7 @@
 <br />
 
 ## tools
-![logo html](https://github.com/alireza-abarian786/alireza-abarian786/blob/main/photo_2024-10-28_20-57-52.jpg?raw=true)
-
+<img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/HTML5_Badge.svg.png?raw=true" alt="html5" style="width:40px; height:40px;"> <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/CSS3_logo.svg.png?raw=true" alt="html5" style="width:40px; height:40px;"> <img src="https://raw.githubusercontent.com/alireza-abarian786/alireza-abarian786/38d19c55945116512d9496914ece885cbd4a6ba5/pngwing.com.png" alt="html5" style="width:40px; height:40px;">
 
 <!--
 **alireza-abarian786/alireza-abarian786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
