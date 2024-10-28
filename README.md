@@ -12,7 +12,7 @@
 <br />
 
 ## tools
-![logo html](file:///C:/Users/LENOVO%20LOQ/Desktop/images/New%20folder/photo_2024-10-28_20-57-52.jpg)
+![logo html](https://github.com/alireza-abarian786/alireza-abarian786/blob/main/photo_2024-10-28_20-57-52.jpg?raw=true)
 
 
 <!--
