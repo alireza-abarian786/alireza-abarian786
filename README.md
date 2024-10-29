@@ -4,7 +4,7 @@
 <br />
 
 ## About My
-- 💻 Currently busy learning and training
+- 💻 Currently, I am busy learning and training
 - 👨‍💻 Computer software student
 - 🌍 A resident of Razavi Khorasan province
 - ❤️ Interested in programming and design
