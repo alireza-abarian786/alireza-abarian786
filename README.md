@@ -16,13 +16,27 @@
 
 <br />
 
-## stats
-<div dir="auto" style="width: 500px;margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="alireza-abarian786's Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=monokai&hide_border=true" alt="alireza-abarian786's Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="alireza-abarian786's Top Languages">
+<h2 style="text-align: center;">GitHub Stats</h2>
+<div style="width: 500px; margin: 0 auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="alireza-abarian786's Stats" style="width: 50%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=monokai&hide_border=true" alt="alireza-abarian786's Streak" style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="alireza-abarian786's Top Languages" style="width: 50%;">
 </div>
 
+
+
+
+
+
+
+
+
+<!--
+## stats
+<h1 style="text-align: center;">GitHub Stats</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="alireza-abarian786's Stats" style="width:50%;>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=monokai&hide_border=true" alt="alireza-abarian786's Streak" style="width:50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="alireza-abarian786's Top Languages" style="width:50%;">
 <!--
 ![alireza-abarian786's Stats](https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
