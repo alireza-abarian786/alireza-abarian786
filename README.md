@@ -11,13 +11,17 @@
 
 <br />
 
-## tools
-<img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/HTML5_Badge.svg.png?raw=true" alt="html5" style="width:40px; height:40px;"> <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/CSS3_logo.svg.png?raw=true" alt="html5" style="width:40px; height:40px;"> <img src="https://raw.githubusercontent.com/alireza-abarian786/alireza-abarian786/38d19c55945116512d9496914ece885cbd4a6ba5/pngwing.com.png" alt="html5" style="width:40px; height:40px;">
-
+<h2>Tools</h2>
+<div>
+    <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/HTML5_Badge.svg.png?raw=true" alt="html5" style="width:40px; height:40px;">
+    <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/CSS3_logo.svg.png?raw=true" alt="html5" style="width:40px; height:40px;">
+    <img src="https://raw.githubusercontent.com/alireza-abarian786/alireza-abarian786/38d19c55945116512d9496914ece885cbd4a6ba5/pngwing.com.png" alt="html5" style="width:40px; height:40px;">
+</div
+    
 <br />
 
-<h2 style="text-align: center;">GitHub Stats</h2>
-<div style="width: 500px; margin: 0 auto;">
+<h2 align="center" >GitHub Stats</h2>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="alireza-abarian786's Stats" style="width: 50%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=monokai&hide_border=true" alt="alireza-abarian786's Streak" style="width: 50%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="alireza-abarian786's Top Languages" style="width: 50%;">
