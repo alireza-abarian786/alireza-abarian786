@@ -13,10 +13,10 @@
 
 <h2>Tools</h2>
 <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai"><br/><br/>
     <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/HTML5_Badge.svg.png?raw=true" alt="html5" style="width:40px; height:40px;">
     <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/CSS3_logo.svg.png?raw=true" alt="html5" style="width:40px; height:40px;">
     <img src="https://raw.githubusercontent.com/alireza-abarian786/alireza-abarian786/38d19c55945116512d9496914ece885cbd4a6ba5/pngwing.com.png" alt="html5" style="width:40px; height:40px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai"  align="right">
 </div
     
 <br /><br />
