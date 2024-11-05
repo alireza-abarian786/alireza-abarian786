@@ -16,10 +16,9 @@
 <h2>Tools</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai">
 <div>
-    <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/HTML5_Badge.svg.png?raw=true" alt="html5" style="width:40px; height:40px;">&nbsp;
-    <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/CSS3_logo.svg.png?raw=true" alt="CSS3_logo" style="width:40px; height:40px;">&nbsp;
-    <img src="https://raw.githubusercontent.com/alireza-abarian786/alireza-abarian786/38d19c55945116512d9496914ece885cbd4a6ba5/pngwing.com.png" alt="js-logo" style="width:38px; height:39px;">&nbsp;
-    <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/Tailwind_CSS_Logo.svg.png?raw=true" alt="Tailwind_CSS_Logo" width="40px" style="width:50px; height:30px;">
+    <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/HTML5_Badge.svg.png?raw=true" alt="html5" width="50px">&nbsp;
+    <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/CSS3_logo.svg.png?raw=true" alt="CSS3_logo" width="50px">&nbsp;
+    <img src="https://raw.githubusercontent.com/alireza-abarian786/alireza-abarian786/38d19c55945116512d9496914ece885cbd4a6ba5/pngwing.com.png" alt="js-logo" width="45px">
 </div
     
 <br /><br />
