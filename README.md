@@ -14,8 +14,8 @@
 
 
 <h2>Tools</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai">
-<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai" width="100%">
+<div align="center">
     <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/HTML5_Badge.svg.png?raw=true" alt="html5" width="50px">&nbsp;
     <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/CSS3_logo.svg.png?raw=true" alt="CSS3_logo" width="50px">&nbsp;
     <img src="https://raw.githubusercontent.com/alireza-abarian786/alireza-abarian786/38d19c55945116512d9496914ece885cbd4a6ba5/pngwing.com.png" alt="js-logo" width="45px">
@@ -25,9 +25,9 @@
 
 <h2 align="center" >GitHub Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="alireza-abarian786's Stats" style="width: 50%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=monokai&hide_border=true" alt="alireza-abarian786's Streak" style="width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="alireza-abarian786's Top Languages" style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="alireza-abarian786's Stats" width="100%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=monokai&hide_border=true" alt="alireza-abarian786's Streak" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="alireza-abarian786's Top Languages" width="100%">
 </div>
 
 
