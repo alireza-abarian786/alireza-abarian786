@@ -24,10 +24,10 @@
 <br /><br />
 
 <h2 align="center" >GitHub Stats</h2>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=calm&show_icons=true&hide_border=false&count_private=true" alt="alireza-abarian786's Stats" width="49%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=calm&hide_border=false" alt="alireza-abarian786's Streak" width="49%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=calm&show_icons=true&hide_border=false&layout=compact" alt="alireza-abarian786's languages" width="100%">
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=calm&show_icons=true&hide_border=false&count_private=true" alt="alireza-abarian786's Stats" width="45%" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=calm&hide_border=false" alt="alireza-abarian786's Streak" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=calm&show_icons=true&hide_border=false&layout=compact" alt="alireza-abarian786's languages" width="50%">
 </div>
 
 
