@@ -14,9 +14,6 @@
 
 
 <h2 align="center">Tools</h2>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai" width="60%">
-</div>
 <br />
 <div align="center">
     <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/HTML5_Badge.svg.png?raw=true" alt="html5" width="50px">&nbsp;
@@ -28,43 +25,17 @@
 
 <h2 align="center" >GitHub Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="alireza-abarian786's Stats" width="60%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=monokai&hide_border=true" alt="alireza-abarian786's Streak" width="60%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="alireza-abarian786's Top Languages" width="60%">
+    <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=calm&show_icons=true&hide_border=false&count_private=true" alt="alireza-abarian786's Stats" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=calm&hide_border=false" alt="alireza-abarian786's Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=calm&show_icons=true&hide_border=false&layout=compact" alt="alireza-abarian786's Streak">
 </div>
 
 
 
 
-
-
-
-
-
 <!--
-## stats
-<h1 style="text-align: center;">GitHub Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="alireza-abarian786's Stats" style="width:50%;>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=monokai&hide_border=true" alt="alireza-abarian786's Streak" style="width:50%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="alireza-abarian786's Top Languages" style="width:50%;">
-<!--
-![alireza-abarian786's Stats](https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
-![alireza-abarian786's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=monokai&hide_border=true)
-
-![alireza-abarian786's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=monokai&show_icons=true&hide_border=true&layout=compact)
--->
-<!--
-**alireza-abarian786/alireza-abarian786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=calm">
+</div>
 -->
