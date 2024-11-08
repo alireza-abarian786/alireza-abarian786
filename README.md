@@ -16,9 +16,7 @@
 <h2 align="center">Tools</h2>
 <br />
 <div align="center">
-    <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/HTML5_Badge.svg.png?raw=true" alt="html5" width="50px">&nbsp;
-    <img src="https://github.com/alireza-abarian786/alireza-abarian786/blob/main/CSS3_logo.svg.png?raw=true" alt="CSS3_logo" width="50px">&nbsp;
-    <img src="https://raw.githubusercontent.com/alireza-abarian786/alireza-abarian786/38d19c55945116512d9496914ece885cbd4a6ba5/pngwing.com.png" alt="js-logo" width="45px">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode,bootstrap&perline=13">
 </div
     
 <br /><br />
@@ -35,7 +33,13 @@
 
 <!--
 
+&nbsp;
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=calm">
 </div>
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 -->
