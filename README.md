@@ -16,7 +16,7 @@
 <h2 align="center">Tools</h2>
 <br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode,bootstrap&perline=13">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode,bootstrap,photoshop,xd&perline=13">
 </div
     
 <br /><br />
