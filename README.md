@@ -15,7 +15,7 @@
 
 <h2 >🧰 Tools</h2>
 <div >
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode,bootstrap,photoshop,xd&perline=13">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,bootstrap,photoshop,xd&perline=13">
 </div
     
 <br /><br />
