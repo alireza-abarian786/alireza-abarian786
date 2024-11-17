@@ -22,8 +22,8 @@
 
 <h2 >📊 GitHub Stats</h2>
 <div >
-    <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=calm&show_icons=true&hide_border=false&count_private=true" alt="alireza-abarian786's Stats" width="50%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=calm&hide_border=false" alt="alireza-abarian786's Streak" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&theme=calm&show_icons=true&hide_border=false&count_private=true" alt="alireza-abarian786's Stats" width="49%" height="200px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&theme=calm&hide_border=false" alt="alireza-abarian786's Streak" width="49%" height="200px">
 </div>
 
 
