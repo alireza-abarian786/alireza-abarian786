@@ -15,7 +15,7 @@
 <div >
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,bootstrap,photoshop,xd&perline=13" width="100%">
     </br> </br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=calm&show_icons=true&hide_border=false&layout=compact" alt="alireza-abarian786's languages" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&theme=calm&show_icons=true&hide_border=true&layout=compact" alt="alireza-abarian786's languages" width="100%">
 </div
     
 <br /></br>
