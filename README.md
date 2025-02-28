@@ -40,8 +40,8 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/alireza-abarian786" align="left"><img align="left" width="360"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/alireza-abarian786" align="right"><img align="right" width="450" src="https://stats.hyo.dev/api/github-stats-advanced?login=alireza-abarian786" /></a>
+<a href="https://github.com/alireza-abarian786" align="left"><img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-abarian786&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/alireza-abarian786" align="right"><img align="right" width="45%" src="https://stats.hyo.dev/api/github-stats-advanced?login=alireza-abarian786" /></a>
 
 <a href="http://www.github.com/alireza-abarian786"><img width="45%"  src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="alireza-abarian786's GitHub stats" /></a>
 <a href="http://www.github.com/alireza-abarian786"><img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
