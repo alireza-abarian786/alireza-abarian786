@@ -44,8 +44,8 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 <a href="http://www.github.com/alireza-abarian786" align="right"><img align="right" width="55%" height="350"  src="https://stats.hyo.dev/api/github-stats-advanced?login=alireza-abarian786" /></a>
 
 <div align='right'>
-<a href="http://www.github.com/alireza-abarian786"><img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="alireza-abarian786's GitHub stats" /></a>
-<a href="http://www.github.com/alireza-abarian786"><img align='left' width="49%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/alireza-abarian786"><img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=alireza-abarian786&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="alireza-abarian786's GitHub stats" /></a>
+<a href="http://www.github.com/alireza-abarian786"><img align='left' width="48%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-abarian786&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
      
 <a href="http://www.github.com/alireza-abarian786"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alireza-abarian786&bg_color=000000&title_color=f97316&color=ffffff&line=f97316&point=ffffff&area_color=f97316&area=true&hide_border=true&radius=16&height=250" alt="GitHub Commits Graph" /></a><br >&nbsp
@@ -53,7 +53,7 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 <a href="http://www.github.com/alireza-abarian786"><img width="100%" src="https://count.getloli.com/@alireza-abarian786?name=alireza-abarian786&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="github-trophies" /></a>
 
 <div align='left'>            
-<a href="https://github.com/alireza-abarian786/onlineShope"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=onlineShope&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
-<a href="https://github.com/alireza-abarian786/order_food"><img align='right' width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=order_food&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/alireza-abarian786/onlineShope"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=onlineShope&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/alireza-abarian786/order_food"><img align='right' width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=order_food&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
 </div>
 <!-- <a href="http://www.github.com/alireza-abarian786"><img src="https://stats.hyo.dev/api/github-trophies?login=alireza-abarian786" /></a> -->
