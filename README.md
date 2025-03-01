@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 &nbsp&nbsp&nbsp 
 <a href="http://www.instagram.com/AlirezaA786"><img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" /></a>
 &nbsp&nbsp&nbsp 
-<a href="http://www.gmail.com/a3725007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="32" height="32" /></a>
+<a href="https://mailto:a3725007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="32" height="32" /></a>
 </p>
 
 #
@@ -62,7 +62,7 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 #
 
 <div align='left'>            
-<a href="https://github.com/alireza-abarian786/onlineShope"><img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=onlineShope&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
-<a href="https://github.com/alireza-abarian786/order_food"><img align='right' width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=order_food&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/alireza-abarian786/onlineShope"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=onlineShope&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/alireza-abarian786/order_food"><img align='right' width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=order_food&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
 </div>
 <!-- <a href="http://www.github.com/alireza-abarian786"><img src="https://stats.hyo.dev/api/github-trophies?login=alireza-abarian786" /></a> -->
