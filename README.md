@@ -11,7 +11,7 @@ frontend developer
 #
 <br>
 
-🌍  I'm based in Razavi Khorasan I've been programming for a while now and I think I've found what I was looking for and I'm pursuing it with interest. I think every line of code is a step towards progress; in the world of coding, nothing is lost, not even mistakes, and every line is a part of the story we're building; in the world of coding, anything is possible, so welcome to the world of lines of code — where every challenge is the beginning of a new story, hoping for better, better, better days for everyone.
+🌍  I'm based in Razavi Khorasan I've been programming for a while now and I think I've found what I was looking for and I'm pursuing it with interest. I think every line of code is a step towards progress; in the world of coding, nothing is lost, not even mistakes, and every line is a part of the story we're building; in the world of coding, anything is possible.
 <br>
 * 🖥️  See my portfolio at [www.BAKHARZSTORE.com](http://online-shope-mc9a-3ooisv05n-alireza-abarian786s-projects.vercel.app/)
 * ✉️  You can contact me at [a3725007@gmail.com](mailto:a3725007@gmail.com)
@@ -37,11 +37,11 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 
 <h3 align='center'>Socials</h3>
 <p align="center"> 
-<a href="https://www.github.com/alireza-abarian786"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a>
+<a href="https://www.github.com/alireza-abarian786"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" /></a>
 &nbsp&nbsp&nbsp 
-<a href="http://www.instagram.com/AlirezaA786"><img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" /></a>
+<a href="http://www.instagram.com/AlirezaA786"><img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" /></a>
 &nbsp&nbsp&nbsp 
-<a href="https://mailto:a3725007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="32" height="32" /></a>
+<a href="mailto:a3725007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" /></a>
 </p>
 
 #
