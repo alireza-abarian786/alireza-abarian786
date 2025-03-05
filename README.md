@@ -11,11 +11,11 @@ frontend developer
 #
 <br>
 
-🌍  I'm based in Razavi Khorasan I've been programming for a while now and I think I've found what I was looking for and I'm pursuing it with interest. I think every line of code is a step towards progress; in the world of coding, nothing is lost, not even mistakes, and every line is a part of the story we're building; in the world of coding, anything is possible.
+🌍 I've been a while since I started programming. In my opinion every line of code is a step towards progress; in the world of coding, nothing is lost, not even mistakes, and every line is a part of the story we're building; in the world of coding, anything is possible.
 <br>
-* 🖥️  See my portfolio at [www.BAKHARZSTORE.com](http://online-shope-mc9a-3ooisv05n-alireza-abarian786s-projects.vercel.app/)
+* 🖥️  See my portfolio at [www.BAKHARZSTORE.com](https://alireza-abarian786.github.io/onlineShope/)
 * ✉️  You can contact me at [a3725007@gmail.com](mailto:a3725007@gmail.com)
-* 🚀  I'm currently working on [a shopping site](http://online-shope-mc9a-3ooisv05n-alireza-abarian786s-projects.vercel.app/)
+* 🚀  I'm currently working on [a shopping site](https://alireza-abarian786.github.io/onlineShope/)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on ✅
 * ⚡  I plan to start using the React framework after I gain more proficiency in JavaScript.
@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 
 <h3 align='center'>Skills</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,html,js,github,vscode,npm,xd,ps" />
   </a>
 </p>
@@ -37,7 +37,6 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 
 <h3 align='center'>Socials</h3>
 <p align="center"> 
-<a href="https://www.github.com/alireza-abarian786"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" /></a>
 &nbsp&nbsp&nbsp 
 <a href="http://www.instagram.com/AlirezaA786"><img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" /></a>
 &nbsp&nbsp&nbsp 
