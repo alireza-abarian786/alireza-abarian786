@@ -13,11 +13,8 @@ frontend developer
 
 🌍 I've been a while since I started programming. In my opinion every line of code is a step towards progress; in the world of coding, nothing is lost, not even mistakes, and every line is a part of the story we're building; in the world of coding, anything is possible.
 <br>
-* 🖥️  See my portfolio at [www.BAKHARZSTORE.com](https://alireza-abarian786.github.io/onlineShope/)
-* ✉️  You can contact me at [a3725007@gmail.com](mailto:a3725007@gmail.com)
-* 🚀  I'm currently working on [a shopping site](https://alireza-abarian786.github.io/onlineShope/)
+* 🚀  I'm currently working on [www.BAKHARZSTORE.com](https://alireza-abarian786.github.io/onlineShope/)
 * 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on ✅
 * ⚡  I plan to start using the React framework after I gain more proficiency in JavaScript.
 <br>
 
