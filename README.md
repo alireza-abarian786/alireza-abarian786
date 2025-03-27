@@ -21,6 +21,8 @@ frontend developer
 <a href="https://www.github.com/alireza-abarian786" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<a href="http://www.github.com/alireza-abarian786"><img width="20%" src="https://count.getloli.com/@alireza-abarian786?name=alireza-abarian786&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="github-trophies" /></a>
+
 #
 
 <h3 align='center'>Skills</h3>
@@ -52,8 +54,6 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 </div><br >
      
 <a href="http://www.github.com/alireza-abarian786"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alireza-abarian786&bg_color=000000&title_color=f97316&color=ffffff&line=f97316&point=ffffff&area_color=f97316&area=true&hide_border=true&radius=16&height=250" alt="GitHub Commits Graph" /></a><br >
-
-<a href="http://www.github.com/alireza-abarian786"><img width="100%" src="https://count.getloli.com/@alireza-abarian786?name=alireza-abarian786&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="github-trophies" /></a>
 
 #
 
