@@ -38,7 +38,13 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 &nbsp&nbsp&nbsp 
 <a href="http://www.instagram.com/AlirezaA786"><img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" /></a>
 &nbsp&nbsp&nbsp 
-<a href="mailto:a3725007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" /></a>
+<a href="mailto:frontdeveloper77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" /></a>
+&nbsp&nbsp&nbsp 
+<a href="http://t.me/AlirezaA667@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" width="50" height="50" /></a>
+&nbsp&nbsp&nbsp 
+<a href="https://github.com/alireza-abarian786"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" /></a>
+
+  
 </p>
 
 #
@@ -56,8 +62,15 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 
 #
 
-<div align='left'>            
+<div align='center'>            
 <a href="https://github.com/alireza-abarian786/onlineShope"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=onlineShope&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
-<a href="https://github.com/alireza-abarian786/order_food"><img align='right' width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=order_food&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/alireza-abarian786/order_food"><img  width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=order_food&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/alireza-abarian786/first-react-project"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=first-react-project&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/alireza-abarian786/Domains"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=Domains&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
 </div>
+
+<div align='left'>            
+</div>
+
+
 <!-- <a href="http://www.github.com/alireza-abarian786"><img src="https://stats.hyo.dev/api/github-trophies?login=alireza-abarian786" /></a> -->
