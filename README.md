@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 &nbsp&nbsp&nbsp 
 <a href="http://www.instagram.com/AlirezaA786"><img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" /></a>
 &nbsp&nbsp&nbsp 
-<a href="mailto:frontdeveloper77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" /></a>
+<a href="mailto:alirezaabarian786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" /></a>
 &nbsp&nbsp&nbsp 
 <a href="http://t.me/AlirezaA667@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" width="50" height="50" /></a>
 &nbsp&nbsp&nbsp 
