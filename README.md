@@ -13,7 +13,7 @@ frontend developer
 
 🌍 I've been a while since I started programming. In my opinion every line of code is a step towards progress; in the world of coding, nothing is lost, not even mistakes, and every line is a part of the story we're building; in the world of coding, anything is possible.
 <br>
-* 🚀  I'm currently working on [www.BAKHARZSTORE.com](https://alireza-abarian786.github.io/onlineShope/)
+* 🚀  I'm currently working on [www.DigiStore.com](https://alireza-abarian786.github.io/onlineShope/)
 * 🧠  I am currently learning React.
 <br>
 
