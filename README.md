@@ -13,7 +13,7 @@ frontend developer
 
 🌍 I've been a while since I started programming. In my opinion every line of code is a step towards progress; in the world of coding, nothing is lost, not even mistakes, and every line is a part of the story we're building; in the world of coding, anything is possible.
 <br>
-* 🚀  I'm currently working on [www.DigiStore.com](https://alireza-abarian786.github.io/onlineShope/)
+* 🚀  I'm currently working on [Developing a user panel with React](https://alireza-abarian786.github.io/cms-project/)
 * 🧠  I am currently learning React.
 <br>
 
@@ -65,8 +65,7 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 <div align='center'>            
 <a href="https://github.com/alireza-abarian786/onlineShope"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=onlineShope&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
 <a href="https://github.com/alireza-abarian786/order_food"><img  width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=order_food&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
-<a href="https://github.com/alireza-abarian786/first-react-project"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=first-react-project&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
-<a href="https://github.com/alireza-abarian786/Domains"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=Domains&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://alireza-abarian786.github.io/cms-project/"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=first-react-project&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
 </div>
 
 <div align='left'>            
