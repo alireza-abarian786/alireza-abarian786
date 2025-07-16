@@ -65,7 +65,7 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 <div align='center'>            
 <a href="https://github.com/alireza-abarian786/onlineShope"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=onlineShope&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
 <a href="https://github.com/alireza-abarian786/order_food"><img  width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=order_food&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
-<a href="https://alireza-abarian786.github.io/cms-project/"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=first-react-project&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/alireza-abarian786/cms-project/"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alireza-abarian786&repo=cms-project&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" /></a>
 </div>
 
 <div align='left'>            
