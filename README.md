@@ -1,4 +1,4 @@
-Hi 👋 My name is Alireza 
+Hi 👋 I'm Alireza 
 ================================
 
 frontend developer
