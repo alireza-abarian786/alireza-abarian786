@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/alireza-abarian786?logo=github&styl
 <h3 align='center'>Skills</h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,mui,git,github,vscode,npm,xd,ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,mui,git,github,vscode,npm,xd,ps,figma" />
   </a>
 </p>
 
